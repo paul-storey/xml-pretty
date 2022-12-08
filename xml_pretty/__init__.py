@@ -1,4 +1,3 @@
-from typing import BinaryIO
 from lxml import etree
 
 __version__ = '0.1.0'
